@@ -1,5 +1,5 @@
 <picture>
-  <img alt="Shows dark version of UpgradeJS logo in dark mode and light version in light mode" src="https://raw.githubusercontent.com/upgradejs/.github/main/upgrade_js_logo_light.png">
+  <img alt="Shows dark version of UpgradeJS logo in dark mode and light version in light mode" src="https://github.com/upgradejs/.github/blob/836b23050a199b8be94545f7b1f06537f0cb5df5/upgrade_js_logo_light.png">
 </picture>
 
 ---
@@ -37,7 +37,7 @@ believe we should give back to the community.
 Writing software is time consuming and we as developers get paid to write it.
 Considering so many developers took their time to write things we use every day
 and apps we rely on for our daily jobs, it's only fair that we share our
-knowledge ([in our blog!](https://www.ombulabs.com/blog)) and the tools we made
+knowledge ([in our blog!](https://www.upgradeJS.com/blog)) and the tools we made
 ourselves with everyone else, so that others that have the same problems can
 benefit from our expertise and contributions.
 

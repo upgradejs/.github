@@ -1,5 +1,5 @@
 <picture>
-  <img alt="Shows dark version of UpgradeJS logo in dark mode and light version in light mode" src="https://github.com/upgradejs/.github/blob/836b23050a199b8be94545f7b1f06537f0cb5df5/upgrade_js_logo_light.png">
+  <img alt="Shows dark version of UpgradeJS logo in dark mode and light version in light mode" src="https://github.com/upgradejs/.github/blob/8f93d4e52a42197143eec58262ffd98f48d31fe2/upgrade_js_logo_light.png">
 </picture>
 
 ---

@@ -24,6 +24,8 @@ Make sure to read each project's README carefully on contribution guidelines and
 
 ## Projects
 * [depngn](https://github.com/upgradejs/depngn)
+* [plugin-preloader](https://github.com/upgradejs/plugin-preloader)
+* [git-churn-js](https://github.com/upgradejs/git-churn-js)
 
 ## Our Commitment to Open Source
 
